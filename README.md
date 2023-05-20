@@ -1,2 +1,2 @@
 # AI-Based-Decision-Support
-AI-Based-Decision-Support modules 1/2 at @OVGU
+Some Algorithms I used for the AIBDS exam 2022/2023
